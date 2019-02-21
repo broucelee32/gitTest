@@ -1,5 +1,5 @@
-# gitTest hotfix
-# git teg test1121212121212`
+# gitTest hotfix 수정 2
+# git teg test
 # commit test1
 sus1 추가
 sus2 추가
